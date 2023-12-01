@@ -13,3 +13,16 @@
 2. <u>**R**EADING</U> the list will be possible, displaying all saved entries.
 3. <u>**U**PDATING</U> the list with current patient status will be possible.
 4. <u>**D**ELETING</U> entries will be possible.
+
+
+# Attribution
+
+The content referenced below is from the article:
+
+- **Title:** Empirically Derived Dehydration Scoring and Decision Tree Models for Children With Diarrhea: Assessment and Internal Validation in a Prospective Cohort Study in Dhaka, Bangladesh.
+- **Authors:** Adam C Levine, Justin Glavis-Bloom, Payal Modi, Sabiha Nasrin, Soham Rege, Chieh Chu, Christopher H Schmid, and Nur H Alam.
+- **Journal:** Global Health: Science and Practice, September 2015, 3(3):405-418.
+- **DOI:** [10.9745/GHSP-D-15-00097](https://doi.org/10.9745/GHSP-D-15-00097)
+- **URL:** [https://www.ghspjournal.org/content/3/3/405](https://www.ghspjournal.org/content/3/3/405)
+
+Please make sure to comply with any licensing or usage restrictions specified by the original content authors or publishers.
