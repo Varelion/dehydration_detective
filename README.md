@@ -1,3 +1,2 @@
 # Dehydration Detector
-&nbsNew
-## Init
+A small python program to discern levels of hydration.
