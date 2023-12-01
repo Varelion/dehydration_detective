@@ -3,7 +3,7 @@
 ### <u>Project Definition</u>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A small python program to discern levels of hydration.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This program will diagnose user's state of dehydration based on a short questionaire utilizing yes-or-no questions. This program will be dynamic, as well as have all CRUD features. No GUI, so entirely text based.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This program will diagnose user's state of dehydration based on a short set of questions yes-or-no questions constructed from ['Global Health: Science and Practice'](https://www.ghspjournal.org/content/3/3/405).This program will be dynamic, as well as have all CRUD features. No GUI, so entirely text based.
 
 ### <u>Project Design</u>
 
